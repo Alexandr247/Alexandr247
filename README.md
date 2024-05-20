@@ -26,6 +26,13 @@
 
 ###
 
+<p align="center">
+    <img src="./Diploma/Diplov-1.1.jpg" alt="Описание картинки 1" width="59%">
+    <img src="./Diploma/Diplov-1.2.jpg" alt="Описание картинки 2" width="30%">
+</p>
+
+###
+
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
